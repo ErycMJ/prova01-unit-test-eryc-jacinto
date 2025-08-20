@@ -22,6 +22,6 @@ All execution artifacts can be found in `./coverage`, if you want to remove thes
 ## Project Structure
 </br>
 <ul>
-    <li>src: source code</li>
+    <li>src: source code</li> 
     <li>test: unit test files</li>
 </ul>
